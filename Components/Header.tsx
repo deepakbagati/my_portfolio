@@ -48,7 +48,7 @@ export default function Header() {
                                 <CgMenu />
                             </span>
                         )}
-                        <span className="dark:text-tertiary">MENU</span>
+                        {/* <span className="dark:text-tertiary">MENU</span> */}
                     </div>
                     {isMobileNavActive && (
                         <>
