@@ -14,8 +14,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "Sanjeev Kansyakar | Portfolio",
-    description: "Sanjeev is Next.js full stack developer.",
+    title: "Deepak Bagati | Portfolio",
+    description: "Deepak is Next.js Full Stack Developer.",
 };
 
 export default function RootLayout({

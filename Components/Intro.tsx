@@ -66,7 +66,7 @@ export default function Intro() {
                 animate={{ y: 0, opacity: 1 }}
             >
                 <h2 className="bg-gradient-to-r from-[#516558] to-[#81dab0] text-transparent leading-[4.3rem] bg-clip-text dark:text-white">
-                    Sanjee<span className="dark:text-tertiary">V</span>
+                    Deepak<span className="dark:text-tertiary">{" "}Bagati</span>
                 </h2>
             </motion.div>
 
@@ -81,12 +81,12 @@ export default function Intro() {
                     }}
                 >
                     <Image
-                        src="/hero.png"
+                        src="/deepaknew.png"
                         alt="hero-image"
                         width={450}
                         height={450}
                         priority
-                        className="object-cover w-full h-full max-h-[750px] !relative"
+                        className="object-cover w-full h-full max-h-[750px]  rounded-3xl !relative"
                     />
                 </motion.div>
 
@@ -109,8 +109,8 @@ export default function Intro() {
                             <Text3d primary={"Hello"} secondary={"Hello"} />
 
                             <Text3d
-                                primary={"I'm Sanjeev"}
-                                secondary={"I'm Sanjeev"}
+                                primary={"I'm Deepak Bagati"}
+                                secondary={"I'm Deepak Bagati"}
                             />
 
                             <Text3d
@@ -134,7 +134,7 @@ export default function Intro() {
 
                             <Link
                                 className="group bg-white sm:text-2xl font-normal px-6 py-2 sm:px-12 sm:py-5 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-105 active:scale-105 transition cursor-pointer borderBlack  dark:text-tertiary dark:bg-darkBlack dark:border-2 dark:border-tertiary"
-                                href="https://drive.google.com/file/d/1PNuLPWKa3KgV1Q4eiB8iCpXhLU1vIjtA/view?usp=sharing"
+                                href="https://drive.google.com/file/d/11Cc2e-3rorsCBh72372Fm9qeEFHeqpjU/view?usp=sharing"
                                 target="_blank"
                             >
                                 Resume{" "}
@@ -155,23 +155,23 @@ export default function Intro() {
                 >
                     <a
                         className="bg-secondary hover:text-white p-4 flex items-center gap-2 rounded-2xl focus:scale-[1.05] hover:scale-[1.05] hover:bg-[#52a580] active:scale-105 transition cursor-pointer borderBlack dark:bg-tertiary dark:text-darkBlack"
-                        href="https://www.linkedin.com/in/sanjeev-kansyakar/"
+                        href="https://www.linkedin.com/in/deepakbagati/"
                         target="_blank"
                     >
                         <FaLinkedinIn />
                     </a>
 
                     <a
-                        href="mailto:sanjeevkansyakar789@gmail.com"
+                        href="mailto:deepakbagati2708@gmail.com"
                         className=" bg-secondary py-4 px-6 rounded-2xl hover:tracking-wide borderBlack hover:bg-[#52a580] hover:text-white transition-all duration-200 ease-in-out group dark:bg-darkBlack dark:text-tertiary dark:border-2 dark:border-tertiary"
                     >
-                        @sanjeev.mail
+                        @deepakbagati.mail
                         <LiaTelegramPlane className="inline-block ml-2" />
                     </a>
 
                     <a
                         className="bg-secondary p-4 hover:text-white flex items-center gap-2 rounded-2xl focus:scale-[1.05] hover:scale-[1.05] hover:bg-[#52a580] active:scale-105 transition cursor-pointer borderBlack dark:bg-tertiary dark:text-darkBlack"
-                        href="https://github.com/sanjeevkansyakar"
+                        href="https://github.com/deepakbagati"
                         target="_blank"
                     >
                         <FaGithub />

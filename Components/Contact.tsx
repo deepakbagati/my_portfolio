@@ -41,9 +41,9 @@ export default function Contact() {
                 Please contact me directly at{" "}
                 <a
                     className="underline"
-                    href="mailto:sanjeevkansyakar789@gmail.com"
+                    href="mailto:deepakbagati2708@gmail.com"
                 >
-                    sanjeevkansyakar789@gmail.com
+                   deepakbagati2708@gmail.com
                 </a>{" "}
                 or through this form.
             </p>
@@ -83,7 +83,7 @@ export default function Contact() {
 
             <div className="flex justify-center items-center gap-8 pt-10">
                 <Link
-                    href="https://github.com/sanjeevkansyakar"
+                    href="https://github.com/deepakbagati"
                     target="blank"
                     prefetch={false}
                     className="hover:scale-110 transition-all duration-200 ease-in-out"
@@ -91,7 +91,7 @@ export default function Contact() {
                     <FaGithub className="h-14 w-14 rounded-full bg-secondary p-4 hover:text-white flex items-center dark:bg-tertiary dark:text-black" />
                 </Link>
                 <Link
-                    href="https://drive.google.com/file/d/1PNuLPWKa3KgV1Q4eiB8iCpXhLU1vIjtA/view?usp=sharing"
+                    href="https://drive.google.com/file/d/11Cc2e-3rorsCBh72372Fm9qeEFHeqpjU/view?usp=sharing"
                     target="_blank"
                     className="text-xl bg-white py-4 px-8 rounded-full hover:tracking-wide hover:bg-secondary hover:text-white transition-all duration-100 ease-in-out group dark:bg-darkBlack dark:border-2 dark:border-tertiary dark:text-white"
                 >
@@ -99,7 +99,7 @@ export default function Contact() {
                     <FaDownload className="h-4 w-4 inline-block ml-2" />
                 </Link>
                 <Link
-                    href="https://www.linkedin.com/in/sanjeev-kansyakar/"
+                    href="https://www.linkedin.com/in/deepakbagati/"
                     target="blank"
                     prefetch={false}
                     className=" rounded-full hover:scale-110 transition-all duration-200 ease-in-out"
