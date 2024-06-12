@@ -21,7 +21,7 @@ export default function Header() {
         <header className="z-[999] relative w-full">
             <motion.div
                 className={clsx(
-                    "fixed top-[2rem] sm:top-[3rem] right-[1.5rem] sm:right-20 lg:h-[4.5rem] rounded-2xl border border-white border-opacity-40 bg-secondary lg:w-[29rem] transition-all duration-400 ease-in-out dark:border-tertiary dark:bg-darkBlack dark:text-white",
+                    "fixed top-[2rem] sm:top-[3rem] right-[1.85rem] sm:right-20 lg:h-[4.5rem] rounded-2xl border border-white border-opacity-40 bg-secondary lg:w-[29rem] transition-all duration-400 ease-in-out dark:border-tertiary dark:bg-darkBlack dark:text-white",
                     { "h-[350px]": isMobileNavActive }
                 )}
                 initial={{ y: -100, opacity: 0 }}
