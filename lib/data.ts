@@ -133,23 +133,12 @@ export const skillsData = [
         icon: git,
     },
     {
-        name: "Redux Toolkit",
+        name: "Redux Toolkit ",
         icon: redux,
     },
     {
         name: "Tailwind CSS",
         icon: tailwind,
     },
-    // "HTML",
-    // "CSS",
-    // "JavaScript",
-    // "TypeScript",
-    // "React",
-    // "Next.js",
-    // "Node.js",
-    // "Git",
-    // "Tailwind",
-    // "MongoDB",
-    // "Redux",
-    // "Express",
+  
 ];

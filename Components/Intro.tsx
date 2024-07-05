@@ -79,7 +79,7 @@ export default function Intro() {
                         type: "tween",
                         delay: 0.1,
                     }}
-                >
+                >   
                     <Image
                         src="/deepaknew.png"
                         alt="hero-image"
